@@ -1,0 +1,16 @@
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\obj\Debug\net5.0\ConsoleApp1.Lab.csproj.AssemblyReference.cache
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\obj\Debug\net5.0\ConsoleApp1.Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\obj\Debug\net5.0\ConsoleApp1.Lab.AssemblyInfoInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\obj\Debug\net5.0\ConsoleApp1.Lab.AssemblyInfo.cs
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\obj\Debug\net5.0\ConsoleApp1.Lab.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\bin\Debug\net5.0\ConsoleApp1.Lab.exe
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\bin\Debug\net5.0\ConsoleApp1.Lab.deps.json
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\bin\Debug\net5.0\ConsoleApp1.Lab.runtimeconfig.json
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\bin\Debug\net5.0\ConsoleApp1.Lab.runtimeconfig.dev.json
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\bin\Debug\net5.0\ConsoleApp1.Lab.dll
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\bin\Debug\net5.0\ref\ConsoleApp1.Lab.dll
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\bin\Debug\net5.0\ConsoleApp1.Lab.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\obj\Debug\net5.0\ConsoleApp1.Lab.dll
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\obj\Debug\net5.0\ref\ConsoleApp1.Lab.dll
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\obj\Debug\net5.0\ConsoleApp1.Lab.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp1.Lab\ConsoleApp1.Lab\obj\Debug\net5.0\ConsoleApp1.Lab.genruntimeconfig.cache
